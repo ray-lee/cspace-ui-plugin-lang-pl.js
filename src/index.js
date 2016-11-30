@@ -1,4 +1,4 @@
-export default () => ({
+module.exports = () => ({
   messages: {
     'loginForm.title': 'Ignsay Inyay',
     'loginForm.prompt': 'Easeplay ignsay inyay otay ontinuecay.',
